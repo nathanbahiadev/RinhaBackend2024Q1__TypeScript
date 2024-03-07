@@ -4,6 +4,8 @@
 
 ### Disclaimer: O código apresentado aqui não deve nunca ser usado em produção!
 
+[Link do repositório](https://github.com/nathanbahiadev/RinhaBackend2024Q1__TypeScript)
+
 API desenvolvida utlizando:
 - TypeScript - https://www.typescriptlang.org/
 - Fastify - https://fastify.dev/
